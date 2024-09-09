@@ -89,4 +89,5 @@ int main() {
 	else {
 		cout << "Tie!" << endl;
 	}
+	system("pause");
 }
